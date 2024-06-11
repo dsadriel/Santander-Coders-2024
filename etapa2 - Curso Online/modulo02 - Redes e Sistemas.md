@@ -141,13 +141,13 @@ O firewall é um dispositivo de segurança que monitora e controla o tráfego de
 A VPN (Virtual Private Network) é uma rede privada virtual que permite que os usuários se conectem a uma rede privada de forma segura pela internet. A VPN criptografa os dados que são transmitidos entre o dispositivo do usuário e a rede privada, protegendo a comunicação contra interceptação e espionagem. A VPN é usada para proteger a privacidade e a segurança dos dados dos usuários, especialmente em redes públicas e não confiáveis.
 
 #### Ataques de segurança
-    - DoS (Denial of Service): Ataque que visa sobrecarregar um servidor ou rede com tráfego malicioso, tornando-o inacessível para os usuários legítimos.
-    - DDoS (Distributed Denial of Service): Ataque DoS que é realizado por vários dispositivos distribuídos em diferentes locais.
-    - Phishing: Ataque que visa enganar os usuários para obter informações confidenciais, como senhas, números de cartão de crédito, entre outros.
-    - Malware: Software malicioso que é projetado para danificar, roubar ou controlar um dispositivo ou rede.
-    - Ransomware: Malware que criptografa os arquivos de um dispositivo e exige um resgate para descriptografá-los.
-    - Spyware: Software malicioso que é projetado para espionar as atividades de um usuário, como digitação de teclas, navegação na web, entre outros.
-    - Injeção de SQL: Ataque que explora vulnerabilidades em aplicativos da web para injetar comandos SQL maliciosos e obter acesso não autorizado ao banco de dados.
+- DoS (Denial of Service): Ataque que visa sobrecarregar um servidor ou rede com tráfego malicioso, tornando-o inacessível para os usuários legítimos.
+- DDoS (Distributed Denial of Service): Ataque DoS que é realizado por vários dispositivos distribuídos em diferentes locais.
+- Phishing: Ataque que visa enganar os usuários para obter informações confidenciais, como senhas, números de cartão de crédito, entre outros.
+- Malware: Software malicioso que é projetado para danificar, roubar ou controlar um dispositivo ou rede.
+- Ransomware: Malware que criptografa os arquivos de um dispositivo e exige um resgate para descriptografá-los.
+- Spyware: Software malicioso que é projetado para espionar as atividades de um usuário, como digitação de teclas, navegação na web, entre outros.
+- Injeção de SQL: Ataque que explora vulnerabilidades em aplicativos da web para injetar comandos SQL maliciosos e obter acesso não autorizado ao banco de dados.
 
 ## Wireless
 > Aula prática utilizando o software Cisco Packet Tracer para simular uma rede sem fio. Foi realizado de duas redes cabeadas cada uma com dois dispositivos e interconexão entre elas por meio de um roteador.
