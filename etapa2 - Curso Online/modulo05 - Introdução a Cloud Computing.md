@@ -1,5 +1,5 @@
 # Introdução a Cloud Computing
-> Daniel Vieira, Professor de DevOps
+> Daniel Vieira, Professor de DevOps da Ada
 
 ## Apresentação e histórico 
 Em 2006, a Amazon Web Services (AWS) lançou o serviço de Elastic Compute Cloud (EC2), que permitia aos usuários alugar servidores virtuais para executar suas aplicações. Este foi um dos primeiros serviços de Cloud Computing a ser lançado e foi um marco importante na história da computação em nuvem.

@@ -1,4 +1,5 @@
 # Introdução ao Terraform
+> Daniel Vieira, Professor de DevOps da Ada
 
 ## Introdução ao Terraform
 Terraform é uma ferramenta de infraestrutura como código (IaC) que permite criar, alterar e versionar infraestrutura de forma segura e eficiente. O Terraform é uma ferramenta de código aberto desenvolvida pela HashiCorp e é uma das ferramentas mais populares para gerenciar infraestrutura como código. A partir de uma configuração declarativa, o Terraform permite criar e gerenciar recursos de infraestrutura em diversos provedores de nuvem, como AWS, Azure, Google Cloud, entre outros.
